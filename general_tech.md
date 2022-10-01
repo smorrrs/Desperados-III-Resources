@@ -1,7 +1,7 @@
 # Game Settings
 
 ## Custom Keybinding
-Execution, especially for glitches, can be made easier by customizing key mappings in Options > Controls
+Execution can be made easier by customizing key mappings in Options > Controls
 
 Personally, I use these custom keybindings:
 * Execute showdown mode = R key
