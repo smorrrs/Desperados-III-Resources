@@ -92,7 +92,7 @@ Hector can pick up a knocked out enemy without tying them up if he’s already h
 # Event Triggers
 
 ## Meetup Points
-To trigger a meetup, all characters must be within an invisible region around the icon. It can be useful to experiment to find exactly where the boundaries are.
+To trigger a meetup, all characters must be within an invisible region around the icon. It can be useful to experiment to find exactly where the boundaries are for each meetup.
  
 Your character won't be detected if you teleport directly into a meetup region, you have to hit the edge of the region from the outside.
  
