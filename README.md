@@ -7,7 +7,7 @@ Resources for speedrunning Desperados III
 * https://github.com/smorrrs/Desperados-III-Resources/blob/main/general_tech.md
 
 **Glitch Guide**
-* (url tbd)
+* https://www.youtube.com/watch?v=vJzRwKFqm7E
 
 
 ## Other Resources
