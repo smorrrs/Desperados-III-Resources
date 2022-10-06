@@ -21,7 +21,7 @@ Select Beginner difficulty, then customize the following based on the level:
 # General Tech
 
 ## Fast Forward
-Fast forward (FF) makes the everything move faster, so you'll want to fast forward as much as you can manage.
+Fast forward (FF) makes everything move faster, so you'll want to fast forward as much as you can manage.
  
 Notes
 * In Gameplay Settings, you can choose whether you control FF with a press & hold or by toggling it.
