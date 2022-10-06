@@ -6,6 +6,7 @@ Execution can be made easier by customizing key mappings in Options > Controls
 Personally, I use these custom keybindings:
 * Execute showdown mode = R key
 * Use mode (interact/pick up) = CAPSLOCK
+* Rotate camera = Q & E keys
 
 
 ## Custom Difficulty
@@ -55,7 +56,10 @@ Knocked out enemies will die if they are dropped off a ledge and land 2 stories 
 Doors will become unlocked before the red circle icon completes. You can enter as soon as the unlocker squats down.
 
 
-## Camera Angling
+## Camera Movement
+* Double press your character's number key (1: Cooper, 2: McCoy, etc) to slide the camera to their location
+* Click the minimap to quickly snap the camera to a location
+
 When a map isn’t yet fully revealed, you can still access some things just off the edge of the screen you’re not otherwise able to by rotating your camera.
 
 
@@ -84,11 +88,18 @@ Teleport Set-up
 * Medium: Cooper, McCoy, Kate
 * Slow: Isabelle
 
+
+## Isabelle: Mind Controlled Enemies
+Enemies mind controlled by Isabelle can walk through locked doors, but the door remains locked to your characters.
+
+They can also interact with objects, but can't trigger events like freeing Wayne in Queen's Nest or examining the desk in New Orleans.
+
+
 ## Isabelle: Mind Control Link Damage
 Link Isabelle with another character, then mind control an enemy. The linked character will take damage, stunning them if they're a long coat and killing them if they're another enemy type. This can also be used for strategically damaging allies.
 
 ## Isabelle: Mind Control Carry
-Mind control an enemy, then knock out Isabelle. She can continue to mind control the enemy while another character carries her somewhere else.
+Mind control an enemy, then knock out Isabelle. She can continue to control the enemy while an ally carries her somewhere else.
 
 ## Isabelle + Hector: Whiskey KO
 Link injured Hector and another character, then have Hector drink his whiskey. The other character will get knocked out.
