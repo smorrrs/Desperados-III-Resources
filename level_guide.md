@@ -52,10 +52,10 @@ Skipping the cutscene before the boulder explodes resumes the level rather than 
 
 # Flagstone
 Each target has a potential environmental kill which won't cause alarm: 
-* drop the church bell
-* drop the loose wall
-* poison the whiskey
-* anger the bull
+* Drop the church bell
+* Drop the loose wall
+* Poison the whiskey
+* Anger the bull
 
 
 # O'Hara Ranch
