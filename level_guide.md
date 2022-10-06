@@ -37,3 +37,8 @@ Triggers to progress level:
 * level ends
 
 
+# Byers Pass
+If your characters are inside the meetup area with no alarm triggered, one of the ending cutscenes will play right after the cutscene of the boulder exploding. If you skip this ending cutscene, you immediately end the level. 
+
+Skipping the cutscene before the boulder explodes resumes the level rather than ending it. Watching the full boulder & ending cutscene will also resume the level.
+
