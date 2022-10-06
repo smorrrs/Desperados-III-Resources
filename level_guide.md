@@ -1,7 +1,5 @@
 # Level Guide
 Level-specific info and tricks
-
-Sections:
 * Base Game Levels: https://github.com/smorrrs/Desperados-III-Resources/blob/main/level_guide.md#base-game-levels
 * DLC Levels: https://github.com/smorrrs/Desperados-III-Resources/blob/main/level_guide.md#dlc-levels---money-for-the-vultures
 * Challenges: https://github.com/smorrrs/Desperados-III-Resources/blob/main/level_guide.md#challenges
