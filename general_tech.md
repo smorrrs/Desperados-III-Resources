@@ -30,6 +30,10 @@ Notes
 A good general strategy is to use time pause on with toggled FF, and toggle FF at the beginning of the level before using showdown for anything.
 
 
+## Cutscene Progression
+Enemies always start in the same spots when a level is loaded, and most enemies will progress along their routes as cutscenes play. When using in-game time, let cutscenes play until enemies are at the best positioning for you. A few enemies start in the same place regardless of when a cutscene is skipped.
+
+
 ## Strategic Alert
 You can manipulate enemies by causing a well-planned alert. Enemies detecting you, a dead body, or hearing a gun shot will alert and move toward the offending stimulus. Other nearby enemies will also be distracted by this.
  
