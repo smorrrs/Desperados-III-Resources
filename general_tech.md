@@ -23,12 +23,11 @@ Select Beginner difficulty, then customize the following based on the level:
 ## Fast Forward
 Fast forward (FF) makes everything move faster, so you'll want to fast forward as much as you can manage.
  
-Notes
-* In Gameplay Settings, you can choose whether you control FF with a press & hold or by toggling it.
+Toggled vs Press-and-Hold
+* In Gameplay Settings, you can choose whether you control FF with a press-and-hold or by toggling it.
 * Showdown mode with time pause off cancels a toggled FF, while press & hold FF does not. 
 * You can't activate FF for ~2 seconds after leaving showdown mode.
-
-A good general strategy is to use time pause on with toggled FF, and toggle FF at the beginning of the level before using showdown for anything.
+* My default strategy is to use time pause on with toggled FF, and toggle FF on at the very beginning of the level. I use time pause off + press-and-hold FF for specific levels where a there's significant multitasking involving showdown glitches.
 
 
 ## Cutscene Progression
