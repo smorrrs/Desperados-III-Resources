@@ -137,7 +137,7 @@ In the final showdown:
 # DLC Levels - Money for the Vultures
 
 ## Casa DeVitt (Abandoned)
-Nothing particularly noteworthy.
+A Normal or higher enemy-up setup in difficulty settings puts a gunman on the balcony above the statue, useful for a quicker invisibility and teleport.
 
 ## DeVitt Plantation
 Nothing particularly noteworthy.
