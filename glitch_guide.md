@@ -1,4 +1,4 @@
-# Glitch Guide
+# Glitch Guide (Under Construction - see the video guide for this info)
 Speed tech using glitches
 
 # Invisibility
