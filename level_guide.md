@@ -81,7 +81,7 @@ Rescuing your characters:
 * Isabelle can teleport out of her cage and will gain invisibility if you do so.
 * Unlock Cooper by killing the two enemies shooting the boat from the sandbags then having a character stand on the front of the boat.
 * Unlock McCoy by entering his trapdoor.
-* The objectives for freeing Hector and Kate won't be fulfilled if you teleport them out of their cages. However, they will if you fly out.
+* The objectives for freeing Hector and Kate won't be fulfilled if you teleport them out of their cages. However, they will if you fly them out.
 
 
 # New Orleans
