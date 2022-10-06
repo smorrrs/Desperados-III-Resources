@@ -13,7 +13,7 @@ For categories without difficulty restrictions, Beginner difficulty generally al
  
 Select Beginner difficulty, then customize the following based on the level:
 * Enemy set-ups: Fewer enemies can enable certain strats not possible with more enemies, but having more enemies can give you better options for creating showdown ghosts for glitches
-* Showdown time pause: Time pause can be exploited to avoid detection/death, but time pause off can allow other actions/evenets to progress while you're in showdown mode setting up glitches
+* Showdown time pause: Time pause can be exploited to avoid detection/death, but time pause off can allow other actions/events to progress while you're in showdown mode setting up glitches
 * Detection speed: Slow detection helps avoid undesired alerts, while fast detection can be used to trigger strategic alerts faster
 
 
