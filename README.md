@@ -4,8 +4,7 @@ Resources for speedrunning Desperados III
 ## Guides
 
 **Glitch Guide**
-* (Video) https://www.youtube.com/watch?v=vJzRwKFqm7E
-* (Written) https://github.com/smorrrs/Desperados-III-Resources/blob/main/glitch_guide.md
+* https://www.youtube.com/watch?v=vJzRwKFqm7E
 
 **General Guide**
 * https://github.com/smorrrs/Desperados-III-Resources/blob/main/general_tech.md
