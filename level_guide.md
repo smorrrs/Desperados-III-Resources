@@ -179,3 +179,33 @@ The window for killing the three targets "at the same time" is narrow, the three
 
 ## Best Served Cold
 Nothing particularly noteworthy.
+
+
+## Rescue Aid Society
+The animals can't crouch and thus can't perform most glitches.
+
+McCoy becomes available once his cell door is unlocked.
+
+
+## The Devil is in the Details
+This level has a lot of dialogue, and the level won't progress until you've fully listened to each full dialogue. If you trigger a dialogue while another dialogue is playing, the new dialogue will queue and be played once the first dialogue finishes. (I'm not sure I've fully explored what happens if two dialogues get queued)
+
+English audio has the shortest total dialogue time. Next are German, Russian, and Chinese, respectively.
+
+
+## Contact!
+Enemies won't approach you while the gatling is firing.
+
+Each guard house has two waves of alert guards. An enemy must alert inside that guard house's region to summon a wave of alert guards.
+
+
+## For a Few Bullets More
+The train can be used to kill enemies.
+
+
+## Bird Hunting
+The light by the long coat target can be extinguished by walking over him after he's been knocked out.
+
+
+## What If?
+There's a short timer before the level ends after killing Frank.
