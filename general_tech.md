@@ -49,7 +49,7 @@ It can be useful to take damage in some situations:
 
 
 ## Drop Kill
-Knocked out enemies will die if they are dropped off a ledge and land 2 stories lower or more.
+Knocked out enemies will die if they are dropped off a ledge and land 2 or more stories lower.
 
 
 ## Quick Locked Door Entry
