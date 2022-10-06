@@ -177,7 +177,7 @@ The model target inside the bank won't react to seeing you.
 ## Bear Trap Triplets
 Isabelle can be unlocked by stepping onto the bridge. This is optional.
 
-The window for killing the three targets "at the same time" is narrow, the three have to die within about one second of each other.
+The window for killing the three targets "at the same time" is narrow, they have to die within about one second of each other.
 
 
 ## Best Served Cold
