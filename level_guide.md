@@ -94,7 +94,7 @@ You typically need to get the right letter, meetup, then examine the desk in the
 
 The letter you need is randomly assigned to one of the 3 targets upon loading the level. Reloading a save even at the very beginning of the level won't reset who has it. You can tell if you have the right letter by the dialogue played.
 
-Each character gives different lines of dialogue if they're used to enter the shed and/or examine the desk. These lines are different lengths and presumably affect how soon the level ends (I haven't tested this much).
+Different lines of dialogue play based on which character grabs a letter, enter the shed, and examine the desk. These lines are different lengths and presumably affect how soon the level ends.
 
 The letter and meetup can be skipped by using the out-of-bounds glitch to run straight to the shed desk with a controller.
 
