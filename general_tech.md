@@ -110,6 +110,10 @@ Your character won't be detected if you teleport directly into a meetup region, 
 Meetups won't trigger while an alarm is ongoing.
 
 
+## Drop Points
+Some objectives require that you place a body in a certain location. Alarms don't affect this from being fulfilled.
+
+
 ## Door Triggers
 Some events are triggered by having a character pass through a door. These can also be triggered by having a showdown ghost pass through the door.
 
