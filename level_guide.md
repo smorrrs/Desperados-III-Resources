@@ -23,7 +23,7 @@ Triggers to progress level:
 (3) Lower rope ladder for dad
 * unlocks 4th map section
 
-(4) Dad enters courtyard (and climb courtyard ladder?)
+(4) Dad enters courtyard (and you climb courtyard ladder?)
 * unlocks 5th map section
 
 (5) Coin the cliff gunman after dad instructs you to
