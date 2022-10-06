@@ -148,4 +148,34 @@ Nothing particularly noteworthy.
 Nothing particularly noteworthy.
 
 ## Untitled Voodoo Mission
-You can wake Hector up by hurting him
+Hector will wake up if he takes damage.
+
+When the mayor's on stage, the dog must be on the steps or the stage for the bark to work.
+
+The priest can open locked doors when mind controlled. (Can other enemies do this? I haven't tried)
+
+
+## Hazards of the Trade
+Nothing particularly noteworthy.
+
+## Public Transportation
+Nothing particularly noteworthy.
+
+
+## Three Men With No Name
+The three targets are in the following locations:
+* Near the boat, walking with the two long coats
+* At Rosie's cabin in the top-right
+* Along the road in the bottom-right near the gossiping doctor
+
+The model target inside the bank won't react to seeing you.
+
+
+## Bear Trap Triplets
+Isabelle can be unlocked by stepping onto the bridge. This is optional.
+
+The window for killing the three targets "at the same time" is narrow, the three have to die within about one second of each other.
+
+
+## Best Served Cold
+Nothing particularly noteworthy.
