@@ -107,7 +107,7 @@ You can use the out-of-bounds glitch to go straight to Frank and bypass the meet
 # DeVitt Goldmine
 The full map is unlocked when either all three characters collect their gear, or if a character or showdown ghost passes through the first gate.
 
-Cooper and Kate are each unlocked and considered rescued once their cell doors are unlocked (no need to pass through).
+Cooper and Kate are considered rescued and become available once their cell doors are unlocked (no need to pass through).
 
 If you free Cooper/Kate before blowing up the final gate, the level ends when you blow up the gate. If you blow up the gate before rescuing them, you'll have to do an additional meetup with all characters at the gate.
 
