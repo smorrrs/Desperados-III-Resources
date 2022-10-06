@@ -201,6 +201,8 @@ Enemies won't approach you while the gatling is firing.
 
 Each guard house has two waves of alert guards. An enemy must alert inside that guard house's region to summon a wave of alert guards.
 
+Dynamite can also be used to kill enemies.
+
 
 ## For a Few Bullets More
 The train can be used to kill enemies.
