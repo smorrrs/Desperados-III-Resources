@@ -3,6 +3,7 @@ Level-specific info and tricks
 
 ## Devil's Canyon Chapter 1
 Triggers to progress level:
+
 (1) collect the first hint
 * unlock 2nd map section
 
