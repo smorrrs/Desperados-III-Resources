@@ -40,6 +40,13 @@ You can manipulate enemies by causing a well-planned alert. Enemies detecting yo
 Note that you can't trigger meetup points while an alert is still ongoing.
 
 
+## Strategic Damage
+It can be useful to take damage in some situations:
+* Allows McCoy to use his heal ability to set a ghost position (I haven't tested for Isabelle but should)
+* Allows Hector to use his whiskey heal ability to knock out another character when linked to them by Isabelle
+* Wakes up wakable allies
+
+
 ## Drop Kill
 Knocked out enemies will die if they are dropped off a ledge and land 2 stories lower or more.
 
@@ -77,8 +84,8 @@ Teleport Set-up
 * Medium: Cooper, McCoy, Kate
 * Slow: Isabelle
 
-## Isabelle: Mind Control Link Kill
-Link Isabelle with an enemy, then mind control a second enemy. The linked enemy will take damage, stunning them if they're a long coat or killing them otherwise.
+## Isabelle: Mind Control Link Damage
+Link Isabelle with another character, then mind control an enemy. The linked character will take damage, stunning them if they're a long coat and killing them if they're another enemy type. This can also be used for strategically damaging allies.
 
 ## Isabelle: Mind Control Carry
 Mind control an enemy, then knock out Isabelle. She can continue to mind control the enemy while another character carries her somewhere else.
