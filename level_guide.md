@@ -38,7 +38,14 @@ Triggers to progress level:
 
 
 # Byers Pass
-If your characters are inside the meetup area with no alarm triggered, one of the ending cutscenes will play right after the cutscene of the boulder exploding. If you skip this ending cutscene, you immediately end the level. 
+If your characters are both inside the meetup area with no alarm triggered when you throw the dynamite at the boulder, one of the ending cutscenes will play right after the cutscene of the boulder exploding. If you skip this ending cutscene, you immediately end the level. 
 
 Skipping the cutscene before the boulder explodes resumes the level rather than ending it. Watching the full boulder & ending cutscene will also resume the level.
+
+
+# O'Hara Ranch
+Shooting a lantern-holder as they stand over an oil patch will kill all characters on the patch and not trigger an alarm
+
+If you invisible kill-carry the long coat in the field from the left side with Hector, you're close enough to the bushes to drop the long coat where you are and his body will disappear.
+
 
