@@ -9,6 +9,9 @@ Resources for speedrunning Desperados III
 **Glitch Guide**
 * https://www.youtube.com/watch?v=vJzRwKFqm7E
 
+**Level-Specific Info**
+* https://github.com/smorrrs/Desperados-III-Resources/blob/main/level_guide.md
+
 
 ## Other Resources
 
