@@ -1,6 +1,13 @@
 # Level Guide
 Level-specific info and tricks
 
+Sections
+* Base Game Levels: 
+* DLC Levels: 
+* Challenges:
+
+# Base Game Levels
+
 ## Devil's Canyon Chapter 1
 Triggers to progress level:
 
