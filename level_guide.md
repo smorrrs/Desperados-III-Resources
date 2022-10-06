@@ -2,7 +2,7 @@
 Level-specific info and tricks
 
 Sections
-* Base Game Levels: 
+* Base Game Levels: https://github.com/smorrrs/Desperados-III-Resources/blob/main/level_guide.md#base-game-levels
 * DLC Levels: 
 * Challenges:
 
