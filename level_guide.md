@@ -157,9 +157,7 @@ Nothing particularly noteworthy.
 ## Untitled Voodoo Mission
 Hector will wake up if he takes damage.
 
-When the mayor's on stage, the dog must be on the steps or the stage for the bark to work.
-
-The priest can open locked doors when mind controlled. (Can other enemies do this? I haven't tried)
+When the mayor's on stage, the dog must be on the steps, on the stage, or right next to the stage for the bark to work.
 
 
 ## Hazards of the Trade
