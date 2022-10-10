@@ -14,15 +14,15 @@ Triggers to progress level:
 
 (2a) dad hides coin-tutorial gunman, delivers lines
 * unlocks 3rd map section
-* can be skipped by doing (2c)
+* can be skipped with an early (2c) but map section won't unlock until after dad knifes enemy
 
 (2b) collect the third hint
 * unlocks coin-only showdown mode
+* less helpful than (2c)
 
 (2c) coin the horse to kick the gunwoman, dad knifes second enemy
-* permanently unlocks full showdown mode if completed (2b)
-* Necessary for final teleport
-* unlocks 3rd map section
+* permanently unlocks full showdown mode
+* necessary for final teleport
 * can be skipped by doing (2a) and (3)
 
 (3) Lower rope ladder for dad
@@ -33,10 +33,11 @@ Triggers to progress level:
 
 (5) Coin the cliff gunman after dad instructs you to
 * unlocks final map section
-* can be skipped if you did (2c) and you teleport to do (6) before dad leaves courtyard
+* can be skipped if you did (2c) and you teleport to do (6) while dad is moving from courtyard bush to the building 
 
 (6) Activate the mechanism
 * bring dad to level end
+* doing at the wrong times can cause the mission to fail or soft lock. Do in normal sequence or the skip described in (5)
 
 (7) Dad and you arrive at final meetup point
 * level ends
@@ -46,9 +47,11 @@ Triggers to progress level:
 Triggers for unlocking abilities:
 * Cooper's knife: enter the knife tutorial area
 * Cooper's guns: enter the gun tutorial area
-* McCoy: kill one of the gunmen by him
-* McCoy's bag: read the hint by him, or step onto the tree bridge
+* McCoy: kill/KO one of the gunmen by him
+* McCoy's bag: read the hint by the tree bridge, or step onto the tree bridge
 * McCoy's gun: go near the train tracks after the bag tutorial
+
+Hints appear after about a second. Teleporting off the train roof before the hints appear may cause Cooper to get stuck in the air.
 
 Blowing up the boulder will typically cause an alarm preventing you from finishing the level right away. However, if your characters are both inside the meetup area with no alarm triggered when you throw the dynamite at the boulder, one of the ending cutscenes will play right after the cutscene of the boulder exploding. If you skip this ending cutscene, you immediately end the level. 
 
@@ -64,7 +67,7 @@ Each target has a potential environmental kill which won't cause alarm:
 
 
 ## O'Hara Ranch
-Shooting a lantern-holder as they stand over an oil patch will kill all characters on the patch and not trigger an alarm
+Shooting a lantern-holder as they stand over an oil patch will kill all characters on the patch and not trigger an alarm.
 
 If you invisible kill-carry the long coat in the field from the left side with Hector, you're close enough to the bushes to drop the long coat where you are and his body will disappear.
 
@@ -90,11 +93,11 @@ Rescuing your characters:
 
 
 ## New Orleans
-You typically need to get the right letter, meetup, then examine the desk in the locked shed to beat the level.
+The normal sequence needed is to get the correct letter, meetup, then examine the desk in the locked shed to beat the level.
 
-The letter you need is randomly assigned to one of the 3 targets upon loading the level. Reloading a save even at the very beginning of the level won't reset who has it. You can tell if you have the right letter by the dialogue played.
+The letter you need is randomly assigned to one of the 3 targets upon loading the level. Reloading a save even at the very beginning of the level won't reset who has it. You can tell if you have collected the correct letter by the dialogue played.
 
-Different lines of dialogue play based on which character grabs a letter, enter the shed, and examine the desk. These lines are different lengths and presumably affect how soon the level ends.
+Different lines of dialogue play based on which character grabs a letter, enter the shed, and examine the desk. These lines are very similar length though.
 
 The letter and meetup can be skipped by using the out-of-bounds glitch to run straight to the shed desk with a controller.
 
@@ -108,9 +111,11 @@ Igniting the Queen typically causes an alarm, however if your characters are all
 ## New Orleans Docks
 You can use the out-of-bounds glitch to go straight to Frank and bypass the meetup.
 
+You can do this skip without controller OOB, but you won't be able to shoot Frank and end the level.
+
 
 ## DeVitt Goldmine
-The full map is unlocked when either all three characters collect their gear, or if a character or showdown ghost passes through the first gate.
+The full map is unlocked when either all three characters collect their gear, or if a character/showdown ghost passes through the first gate.
 
 Cooper and Kate are considered rescued and become available once their cell doors are unlocked (no need to pass through).
 
@@ -122,7 +127,7 @@ Nothing particularly noteworthy.
 
 
 ## Casa DeVitt
-DeVitt is immune to cutscene progression and will always begin in the same location. DeVitt must be tied up to end the level.
+DeVitt is immune to cutscene progression and will always begin in the same location. DeVitt must be alive and tied up to end the level.
 
 
 ## Devil's Canyon Chapter III
