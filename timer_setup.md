@@ -17,11 +17,14 @@ This autosplitter can be used for any category that plays every level in order.
 ## Requirements
 Windows PC only.
 
-The autoplitter was created using PC version 1.5.8.r36101.F. The autosplitter may not work with other versions of the game. You can find the version you have in the bottom left corner of the main menu screen in the game.
+The autosplitter was created using version 1.5.8.r36101.F and may not work with other versions of the game. You can find the version you have in the bottom left corner of the main menu screen in the game. 
+
+If the timer isn't working try updating to a newer version. If you're still having trouble/ the autosplitter doesn't work with the latest version of the game, feel free to contact smorrs#4260 on discord. 
 
 
 ## Getting LiveSplit
-LiveSplit is a timer app which has access to the 
+LiveSplit is a timer app which has access to the Desperados III autosplitter.
+
 Download LiveSplit here: https://livesplit.org/downloads/
 
 
