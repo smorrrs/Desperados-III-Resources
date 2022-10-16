@@ -35,7 +35,7 @@ When you launch LiveSplit.exe, you should see a black box with 0.00 appear.
 2. For *Game Name*, start typing "Desperados III" and select the same from the dropdown.
 3. For *Run Category*, enter the name of the category you're running (can be anything).
 4. Click the *Activate* button to enable the autosplitter.
-5. In the table, add a segment for each level of the game (use Insert Below to add more rows). They can be called anything but there must be 16 of them.
+5. In the table, add a segment for each level of the game (use *Insert Below* to add more rows). They can be called anything but there must be 16 of them.
 
 ![splits](https://user-images.githubusercontent.com/104397629/196058538-ea6cdfc4-d6c2-400f-a2b5-cc795234743e.PNG)
 
