@@ -17,3 +17,6 @@ Resources for speedrunning Desperados III
 
 **Leaderboard**
 * https://www.speedrun.com/desperados_iii
+
+**Full Game Timer**
+* https://github.com/smorrrs/Desperados-III-Resources/blob/main/timer_setup.md
