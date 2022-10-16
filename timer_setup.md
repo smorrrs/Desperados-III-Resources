@@ -24,7 +24,7 @@ Download LiveSplit here: https://livesplit.org/downloads/
 ## Configuring LiveSplit
 When you launch LiveSplit.exe, you should see a black box with 0.00 appear.
 
-(1) Right-click the box and select "Edit Splits..."
-(2) In Game Name, start typing "Desperados III" and select the same from the dropdown.
-(3) There should be text that says "Auto start, split... by smorrs". Click the Activate button to the right of this text
-(4) Add a split for each level of the game. They can be called anything but there must be 16 of them. Here is an example:
+1. Right-click the box and select "Edit Splits..."
+2. In Game Name, start typing "Desperados III" and select the same from the dropdown.
+3. There should be text that says "Auto start, split... by smorrs". Click the Activate button to the right of this text
+4. Add a split for each level of the game. They can be called anything but there must be 16 of them. Here is an example:
