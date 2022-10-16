@@ -42,4 +42,4 @@ When you launch LiveSplit.exe, you should see a black box with 0.00 appear.
 
 6. Press *OK*
 
-The timer should now be fully configured and automatically run when you start the first level of the game.
+The timer should now be fully configured and automatically begin when you start the first level of the game.
