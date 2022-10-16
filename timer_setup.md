@@ -1,7 +1,7 @@
 # Full Game Timer Guide
 This is a guide for setting up the timer for full game runs.
 
-This timer includes an autosplitter specifically designed for this game, which will automatically:
+This timer includes an autosplitter specifically designed for Desperados III, which will automatically:
 * Start the timer once Devil's Canyon 1 is loaded
 * Split the timer upon starting a new level
 * Stop the timer on the final cutscene in Devil's Canyon 3
