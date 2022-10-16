@@ -15,7 +15,7 @@ The timer is programmed to only split if you do levels in the correct order. For
 ## Requirements
 Windows PC only.
 
-The autosplitter was created using version 1.5.8.r36101.F and may not work with other versions of the game. You can find the version you have in the bottom left corner of the main menu screen in the game. 
+The autosplitter was created using version 1.5.8.r36101.F of Desperados III and may not work with other versions of the game. You can find the version you have in the bottom left corner of the main menu screen in the game. 
 
 If the timer isn't working try updating to a newer version. If you're still having trouble/ the autosplitter doesn't work with the latest version of the game, feel free to contact smorrs#4260 on discord. 
 
