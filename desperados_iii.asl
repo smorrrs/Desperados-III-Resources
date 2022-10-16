@@ -67,7 +67,8 @@ start
     }
 }
 
-split{
+split
+{
     // If the level value has changed
     if (current.level != old.level){
         
