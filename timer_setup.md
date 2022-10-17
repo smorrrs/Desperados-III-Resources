@@ -9,7 +9,7 @@ This timer includes an autosplitter specifically designed for Desperados III, wh
 
 The timer does not include automated reset.
 
-The timer is programmed to only split if you do levels in the correct order. For example, if you complete level 1, the timer will only split once level 2 is loaded. If you complete level 1 then accidentally select level 3, you can back out and go to level 2 and the splits will proceed as normal.
+The timer is programmed to only split if you do levels in the correct order. For example, after playing level 1, the timer will only split once level 2 is loaded. If you complete level 1 then accidentally select level 3, you can back out and go to level 2 and the splits will proceed as normal.
 
 
 ## Requirements
