@@ -17,8 +17,6 @@ Windows PC only.
 
 The autosplitter was created using version 1.5.8.r36101.F of Desperados III and may or may not work with other versions of the game. You can find the version you have in the bottom left corner of the main menu screen in the game. 
 
-If the timer isn't working try updating to a newer version. If you're still having trouble/ the autosplitter doesn't work with the latest version of the game, feel free to contact smorrs#4260 on discord for assisstance.
-
 
 ## Download LiveSplit
 LiveSplit is a timer app which has access to the Desperados III autosplitter.
@@ -43,3 +41,7 @@ When you launch LiveSplit.exe, you should see a black box with 0.00 appear.
 6. Press *OK*
 
 The timer should now be fully configured and automatically begin when you start the first level of the game.
+
+
+## Troubleshooting
+If the timer isn't working try updating to a newer version. If you're still having trouble/ the autosplitter doesn't work with the latest version of the game, feel free to contact smorrs#4260 on discord for assisstance.
