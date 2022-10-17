@@ -44,4 +44,4 @@ The timer should now be fully configured and automatically begin when you start 
 
 
 ## Troubleshooting
-If the timer isn't working, make sure you have the latest version of Desperados III. If you're still having trouble/ the autosplitter doesn't work with the latest version of the game, feel free to contact smorrs#4260 on discord for assistance.
+If the timer isn't working, make sure you have the latest version of Desperados III. If you're still having trouble/ the autosplitter doesn't work with the latest version of the game, feel free to contact smorrs#4260 on discord.
