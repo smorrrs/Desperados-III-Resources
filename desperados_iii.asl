@@ -1,6 +1,6 @@
 state("Desperados III")
 {
-    bool loading : "UnityPlayer.dll", 0x01530790, 0x60, 0x10, 0x98, 0x18, 0x668, 0x90, 0x138;
+    bool loading : "mono-2.0-bdwgc.dll", 0x0048FA90, 0xC50, 0X20, 0X20, 0X20, 0X10, 0X18;
     bool dc3Complete : "UnityPlayer.dll", 0x01561A68, 0xFE0, 0X188, 0X80, 0X0, 0XA8, 0X9D0;
     string32 level : "UnityPlayer.dll", 0x01529248, 0x1C;
 }
