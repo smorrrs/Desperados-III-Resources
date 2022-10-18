@@ -15,7 +15,7 @@ The timer is programmed to only split if you do levels in the correct order. For
 ## Requirements
 Windows PC only.
 
-The autosplitter was created using version 1.5.8.r36101.F of Desperados III and may or may not work with other versions of the game. You can find the version you have in the bottom left corner of the main menu screen in the game. 
+The autosplitter was created using version 1.5.8.r36101.F of Desperados III and may or may not work with other versions of the game. 
 
 
 ## Download LiveSplit
@@ -43,5 +43,21 @@ When you launch LiveSplit.exe, you should see a black box with 0.00 appear.
 The timer should now be fully configured and automatically begin when you start the first level of the game.
 
 
+## Adding Timer with Loads
+In addition to the timer with load removal, you can add a second timer that includes loads:
+
+1. Right-click LiveSplit and select "Edit Layout..."
+2. Click the "+" button and select Timer > Timer
+3. Click Layout Settings
+4. Select the tab for the new Timer (will be the last one by default)
+5. Set Timing Method to Real Time
+6. The previous Timer should have Timing Method set to Game Time
+7. You can set which timer your splits are based off of by going to the Splits tab and setting all Timing Methods to Game Time for loadless or Real Time for time with loads
+
+![layout settings](https://user-images.githubusercontent.com/104397629/196529329-6884209c-d2e0-48b1-8053-e839b10325bf.PNG)
+
+
 ## Troubleshooting
-If the timer isn't working, make sure you have the latest version of Desperados III. If you're still having trouble/ the autosplitter doesn't work with the latest version of the game, feel free to contact smorrs#4260 on discord.
+If the timer isn't working, make sure you have the latest version of Desperados III. You can find the version you have in the bottom left corner of the main menu screen in the game. 
+
+If you're still having trouble/ the autosplitter doesn't work with the latest version of the game, feel free to contact smorrs#4260 on discord.
