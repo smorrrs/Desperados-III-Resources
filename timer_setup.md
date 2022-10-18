@@ -3,7 +3,7 @@ This is a guide for setting up the timer for full game runs.
 
 This timer includes an autosplitter specifically designed for Desperados III, which will automatically:
 * Start the timer once Devil's Canyon 1 is loaded
-* Split the timer upon starting a new level
+* Split the timer upon loading a new level
 * Stop the timer on the final cutscene in Devil's Canyon 3
 * Pause the timer during any loads
 
@@ -61,3 +61,7 @@ In addition to the timer with load removal, you can add a second timer that incl
 If the timer isn't working, make sure you have the latest version of Desperados III. You can find the version you have in the bottom left corner of the main menu screen in the game. 
 
 If you're still having trouble/ the autosplitter doesn't work with the latest version of the game, feel free to contact smorrs#4260 on discord.
+
+
+## Feedback
+If you'd like the splitting logic to work differerently and know how to implement the desired changes, please offer your suggestion to smorrs#4260 on discord. 
