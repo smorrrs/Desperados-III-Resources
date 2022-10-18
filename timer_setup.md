@@ -25,7 +25,7 @@ Download LiveSplit here: https://livesplit.org/downloads/
 
 
 ## Configuring LiveSplit
-When you launch LiveSplit.exe, you should see a black box with 0.00 appear.
+When you launch LiveSplit.exe for the first time, you should see a black box with 0.00 appear.
 
 1. Right-click the box and select "Edit Splits..." to open the Splits Editor
 
