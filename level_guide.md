@@ -20,7 +20,7 @@ Triggers to progress level:
 * unlocks coin-only showdown mode
 * less helpful than (2c)
 
-(2c) coin the horse to kick the gunwoman, dad knifes second enemy
+(2c) coin the horse to kick the gunwoman
 * permanently unlocks full showdown mode
 * necessary for final teleport
 * can be skipped by doing (2a) and (3)
