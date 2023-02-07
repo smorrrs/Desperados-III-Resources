@@ -9,14 +9,14 @@ Level-specific info and tricks
 ## Devil's Canyon Chapter 1
 Triggers to progress level:
 
-(1) collect the first hint
+(1) collect the second hint
 * unlock 2nd map section
 
 (2a) dad hides coin-tutorial gunman, delivers lines
 * unlocks 3rd map section
 * can be skipped with an early (2c) but map section won't unlock until after dad knifes enemy
 
-(2b) collect the third hint
+(2b) collect the fourth hint
 * unlocks coin-only showdown mode
 * less helpful than (2c)
 
