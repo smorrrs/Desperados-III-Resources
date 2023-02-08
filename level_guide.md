@@ -109,9 +109,7 @@ Igniting the Queen typically causes an alarm, however if your characters are all
 
 
 ## New Orleans Docks
-You can use the out-of-bounds glitch to go straight to Frank and bypass the meetup.
-
-You can do this skip without controller OOB, but you won't be able to shoot Frank and end the level.
+You can teleport out-of-bounds to go straight to Frank and bypass the meetup. If you do this without a controller, you won't be able to shoot Frank and you'll soft lock.
 
 
 ## DeVitt Goldmine
