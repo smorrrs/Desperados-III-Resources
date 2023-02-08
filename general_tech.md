@@ -59,7 +59,7 @@ Doors will become unlocked before the red circle icon completes. You can enter a
 * Double press your character's number key (1: Cooper, 2: McCoy, etc) to slide the camera to their location
 * Click the minimap to quickly snap the camera to a location
 
-When a map isn’t yet fully revealed, you can still access some things just off the edge of the screen you’re not otherwise able to by rotating your camera.
+When a map isn’t yet fully revealed, you can still access some things just off the edge of the screen you’re not otherwise able to by rotating your camera to specific angles.
 
 
 # Character Abilities
