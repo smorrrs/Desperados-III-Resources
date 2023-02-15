@@ -1,8 +1,29 @@
 # Level Guide
 Level-specific info and tricks
-* Base Game Levels: https://github.com/smorrrs/Desperados-III-Resources/blob/main/level_guide.md#base-game-levels
-* DLC Levels: https://github.com/smorrrs/Desperados-III-Resources/blob/main/level_guide.md#dlc-levels---money-for-the-vultures
-* Challenges: https://github.com/smorrrs/Desperados-III-Resources/blob/main/level_guide.md#challenges
+
+Base Game Levels:
+* [Devil's Canyon 1](https://github.com/smorrrs/Desperados-III-Resources/blob/main/level_guide.md#devils-canyon-chapter-1)
+* [Byers Pass](https://github.com/smorrrs/Desperados-III-Resources/blob/main/level_guide.md#byers-pass)
+* [Flagstone](https://github.com/smorrrs/Desperados-III-Resources/blob/main/level_guide.md#flagstone)
+* [O'Hara Ranch](https://github.com/smorrrs/Desperados-III-Resources/blob/main/level_guide.md#ohara-ranch)
+* [Eagle Falls](https://github.com/smorrrs/Desperados-III-Resources/blob/main/level_guide.md#eagle-falls)
+* [Devil's Canyon 2](https://github.com/smorrrs/Desperados-III-Resources/blob/main/level_guide.md#devils-canyon-chapter-2)
+* [Baton Rouge](https://github.com/smorrrs/Desperados-III-Resources/blob/main/level_guide.md#baton-rouge)
+* [Mississippi River](https://github.com/smorrrs/Desperados-III-Resources/blob/main/level_guide.md#mississippi-river)
+* [New Orleans](https://github.com/smorrrs/Desperados-III-Resources/blob/main/level_guide.md#new-orleans)
+* [Queen's Nest](https://github.com/smorrrs/Desperados-III-Resources/blob/main/level_guide.md#queens-nest)
+* [New Orleans Docks](https://github.com/smorrrs/Desperados-III-Resources/blob/main/level_guide.md#new-orleans-docks)
+* [DeVitt Goldmine](https://github.com/smorrrs/Desperados-III-Resources/blob/main/level_guide.md#devitt-goldmine)
+* [Las Piedras](https://github.com/smorrrs/Desperados-III-Resources/blob/main/level_guide.md#las-piedras)
+* [Casa DeVitt](https://github.com/smorrrs/Desperados-III-Resources/blob/main/level_guide.md#casa-devitt)
+* [Devil's Canyon 3](https://github.com/smorrrs/Desperados-III-Resources/blob/main/level_guide.md#devils-canyon-chapter-iii)
+
+DLC Levels:
+* [Casa DeVitt (Abandoned)](https://github.com/smorrrs/Desperados-III-Resources/blob/main/level_guide.md#casa-devitt-abandoned)
+* [DeVitt Plantation](https://github.com/smorrrs/Desperados-III-Resources/blob/main/level_guide.md#devitt-plantation)
+* [Eagle's Nest](https://github.com/smorrrs/Desperados-III-Resources/blob/main/level_guide.md#eagles-nest)
+
+[Challenges](https://github.com/smorrrs/Desperados-III-Resources/blob/main/level_guide.md#challenges)
 
 # Base Game Levels
 
