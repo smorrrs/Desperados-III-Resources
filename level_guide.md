@@ -23,7 +23,7 @@ DLC Levels:
 * [DeVitt Plantation](https://github.com/smorrrs/Desperados-III-Resources/blob/main/level_guide.md#devitt-plantation)
 * [Eagle's Nest](https://github.com/smorrrs/Desperados-III-Resources/blob/main/level_guide.md#eagles-nest)
 
-[Challenges](https://github.com/smorrrs/Desperados-III-Resources/blob/main/level_guide.md#challenges)
+[Challenge Levels](https://github.com/smorrrs/Desperados-III-Resources/blob/main/level_guide.md#challenges)
 
 # Base Game Levels
 
