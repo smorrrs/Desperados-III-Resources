@@ -44,7 +44,7 @@ Note that you can't trigger meetup points while an alert is still ongoing.
 It can be useful to take damage in some situations:
 * Allows McCoy, Isabelle, and Hector to use their heal ability to set a ghost position (very niche strat)
 * Allows Hector to use his whiskey heal ability to knock out another character when linked to them by Isabelle
-* Wakes up wakable allies
+* Wakes up wakeable allies
 
 
 ## Drop Kill
@@ -114,7 +114,7 @@ Hector can pick up a knocked out enemy without tying them up if he’s already h
 ## Meetup Points
 To trigger a meetup, all characters must be within an invisible region around the icon. It can be useful to experiment to find exactly where the boundaries are for each meetup.
  
-Your character won't be detected if you teleport directly into a meetup region, you have to hit the edge of the region from the outside.
+Your character won't activate a meetup if they teleport directly into a meetup region, they have to walk across the boundary of the region from the outside.
  
 Meetups won't trigger while an alarm is ongoing.
 
