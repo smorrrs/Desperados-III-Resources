@@ -42,13 +42,13 @@ Note that you can't trigger meetup points while an alert is still ongoing.
 
 ## Strategic Damage
 It can be useful to take damage in some situations:
-* Allows McCoy to use his heal ability to set a ghost position (I haven't tested for Isabelle but should)
+* Allows McCoy, Isabelle, and Hector to use their heal ability to set a ghost position (very niche strat)
 * Allows Hector to use his whiskey heal ability to knock out another character when linked to them by Isabelle
 * Wakes up wakable allies
 
 
 ## Drop Kill
-Knocked out enemies will die if they are dropped off a ledge and land 2 or more stories lower.
+KO'd characters will die if they are dropped off a ledge and land 2 or more stories lower.
 
 
 ## Quick Locked Door Entry
@@ -57,7 +57,7 @@ Doors will become unlocked before the red circle icon completes. You can enter a
 
 ## Camera Movement
 * Double press your character's number key (1: Cooper, 2: McCoy, etc) to slide the camera to their location
-* Click the minimap to quickly snap the camera to a location
+* Click the minimap to quickly snap the camera to a location without a camera slide
 
 When a map isn’t yet fully revealed, you can still access some things just off the edge of the screen you’re not otherwise able to by rotating your camera to specific angles.
 
@@ -84,8 +84,7 @@ Body Carry
  
 Teleport Set-up
 * Fast: Hector
-* Medium: Cooper, McCoy, Kate
-* Slow: Isabelle
+* Medium: Cooper, McCoy, Kate, Isabelle
 
 
 ## Isabelle: Mind Controlled Enemies
