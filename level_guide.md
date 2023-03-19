@@ -140,6 +140,8 @@ Cooper and Kate are considered rescued and become available once their cell door
 
 If you free Cooper/Kate before blowing up the final gate, the level ends when you blow up the gate. If you blow up the gate before rescuing them, you'll have to do an additional meetup with all characters at the gate.
 
+Bounty Mode: Adding Cooper and Kate to your team eliminates the requirement to free them without adding a meetup at the final gate. 
+
 
 ## Las Piedras
 Nothing particularly noteworthy.
