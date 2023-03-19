@@ -17,11 +17,14 @@ Select Beginner difficulty, then customize the following based on the level:
 * Showdown time pause: Time pause can be exploited to avoid detection/death, but time pause off can allow other actions/events to progress while you're in showdown mode setting up glitches (fast forward can also be used for this though)
 * Detection speed: Slow detection helps avoid undesired alerts, while fast detection can be used to trigger strategic alerts faster
 
+## Bounty Mode
+Bounty Mode is not permitted in any category at the time of writing. Even if it were used, it would be of limited help since most levels have meetups which would be slowed by extra characters.
+
 
 # General Tech
 
 ## Fast Forward
-Fast forward (FF) makes everything move faster, so you'll want to have fast forward turned on as much as you can manage.
+Fast forward (FF) makes everything move faster, so you'll want to have fast forward turned on as much as you can manage in categories where it's allowed.
  
 Toggled vs Press-and-Hold
 * In Gameplay Settings, you can choose whether you control FF with a press-and-hold or by toggling it. Toggled FF + time pause off Showdown is recommended, but it's possible different settings could be better in specific situations.
@@ -41,8 +44,8 @@ Note that you can't trigger meetup points while an alert is still ongoing.
 
 
 ## Strategic Damage
-It can be useful to take damage in some situations:
-* Allows McCoy, Isabelle, and Hector to use their heal ability to set a ghost position (very niche strat)
+It can be useful to take damage in some niche situations:
+* Allows McCoy, Isabelle, and Hector to use their heal ability to set a ghost position
 * Allows Hector to use his whiskey heal ability to knock out another character when linked to them by Isabelle
 * Wakes up wakeable allies
 
@@ -57,7 +60,7 @@ Doors will become unlocked before the red circle icon completes. You can enter a
 
 ## Camera Movement
 * Double press your character's number key (1: Cooper, 2: McCoy, etc) to slide the camera to their location
-* Click the minimap to quickly snap the camera to a location without a camera slide
+* Click the minimap to snap the camera to any location without a camera slide
 
 When a map isn’t yet fully revealed, you can still access some things just off the edge of the screen you’re not otherwise able to by rotating your camera to specific angles.
 
