@@ -33,6 +33,13 @@ Toggled vs Press-and-Hold
 * You can't activate FF for ~2 seconds after leaving showdown mode (unless it automatically resumes from being toggled on before entering a time pause off Showdown).
 
 
+## Camera Movement
+* Double press your character's number key (1: Cooper, 2: McCoy, etc) to slide the camera to their location
+* Click the minimap to snap the camera to any location without a camera slide
+
+When a map isn’t yet fully revealed, you can still access some things just off the edge of the screen you’re not otherwise able to by rotating your camera to specific angles.
+
+
 ## Cutscene Progression
 Enemies always start in the same spots when a level is loaded, and most enemies will progress along their routes as cutscenes play. When using in-game time, let cutscenes play until enemies are at the best positioning for you. A few enemies start in the same place regardless of when a cutscene is skipped.
 
@@ -58,11 +65,10 @@ KO'd characters will die if they are dropped off a ledge and land 2 or more stor
 Doors will become unlocked before the red circle icon completes. You can enter as soon as the unlocker squats down.
 
 
-## Camera Movement
-* Double press your character's number key (1: Cooper, 2: McCoy, etc) to slide the camera to their location
-* Click the minimap to snap the camera to any location without a camera slide
+## Long Coat Takedown
+By default, only Hector's attack (kill or KO) will take down a long coat without dying. Damaging a long coat will down them, and in that state any character can take them down unless they're in the long coat's view cone. 
 
-When a map isn’t yet fully revealed, you can still access some things just off the edge of the screen you’re not otherwise able to by rotating your camera to specific angles.
+If you're in a downed long coat's vision and exit it (by crouching behind an obstacle, etc), they will forget about you immediately and their view cone will snap back to the direction that they were injured from.
 
 
 # Character Abilities
