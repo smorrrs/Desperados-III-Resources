@@ -64,4 +64,4 @@ If you're still having trouble/ the autosplitter doesn't work with the latest ve
 
 
 ## Feedback
-If you'd like the splitting logic to work differerently and you know how to implement the desired changes, please offer your suggestion to smorrs#4260 on discord. 
+If you'd like the splitting logic to work differently and you know how to implement the desired changes, please offer your suggestion to smorrs#4260 on discord. 
