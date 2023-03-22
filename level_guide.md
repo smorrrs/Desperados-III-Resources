@@ -148,7 +148,13 @@ Bounty Mode: Adding Cooper and Kate to your team eliminates the requirement to f
 
 
 ## Las Piedras
-Nothing particularly noteworthy.
+Characters will die if hit by the train.
+
+The cow cutscene (probably also the wagon cutscene) will warp both characters to a certain location. You can prevent this with a cutscene warp cancel (i.e. have them halfway up a ladder or in a door network).
+
+The stopped train's position can be progressed by playing out this cutscene. 
+
+For some reason it's impossible to activate invisibility during roughly the first second after this level starts.
 
 
 ## Casa DeVitt
@@ -173,6 +179,7 @@ Nothing particularly noteworthy.
 ## Eagle's Nest
 You can teleport with the chest of money using a Blocked Door Teleport glitch.
 
+Hector will automatically pick up the treasure chest after its cutscene. This can be stopped by issuing a command or doing something in showdown. However there's a tiny window just before Hector's abilities are disabled from carrying the box where he can do something in showdown (like activate invisibility) and still continue to automatically pick up the box.
 
 # Challenges
 
