@@ -106,7 +106,7 @@ You have no normal attack to use for ghost setting, but you can still create a g
 
 
 ## Baton Rouge
-Nothing particularly noteworthy.
+The meetup near Kate isn't necessary.
 
 
 ## Mississippi River
