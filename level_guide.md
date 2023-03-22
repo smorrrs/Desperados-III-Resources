@@ -90,6 +90,10 @@ Each target has a potential environmental kill which won't cause alarm:
 ## O'Hara Ranch
 Shooting a lantern-holder as they stand over an oil patch will kill all characters on the patch and not trigger an alarm.
 
+Trees seem to not block McCoy's snipe. For instance, you can snipe the top-right long coat from the beginning or from the chicken coop.
+
+The meetup can be triggered by characters standing on the ground under the roof as well as on top of it.
+
 If you invisible kill-carry the long coat in the field from the left side with Hector, you're close enough to the bushes to drop the long coat where you are and his body will disappear.
 
 
@@ -207,7 +211,9 @@ The window for killing the three targets "at the same time" is narrow, they have
 
 
 ## Best Served Cold
-Nothing particularly noteworthy.
+The end won't trigger if you attack teleport the target directly onto the boat. 
+
+The end will trigger as soon as the target is in the air as you throw him onto the boat or off of the boat.
 
 
 ## Rescue Aid Society
@@ -217,7 +223,14 @@ McCoy becomes available once his cell door is unlocked.
 
 
 ## The Devil is in the Details
-This level has a lot of dialogue, and the level won't progress until you've fully listened to each full dialogue. If you trigger a dialogue while another dialogue is playing, the new dialogue will queue and be played once the first dialogue finishes. (I'm not sure I've fully explored what happens if two dialogues get queued)
+Requirements to get the murderer to appear:
+* Inspect the body on the boat
+* Shoot one of the chickens
+* Enter the locked door (down-right across the street from Cooper/Isabelle's start location)
+
+The murderer spawns in shortly before his cutscene plays. If you kill him before or during this cutscene, this cutscene will jump to the end cutscene and the level ends.
+
+This level has a lot of dialogue, and the level won't progress until you've fully listened to each full dialogue. If you trigger a dialogue while another dialogue is playing, the new dialogue will queue and be played once the first dialogue finishes. 
 
 English audio has the shortest total dialogue time. Next are German, Russian, and Chinese, respectively.
 
