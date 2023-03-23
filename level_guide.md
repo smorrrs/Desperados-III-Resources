@@ -174,12 +174,13 @@ In the final showdown:
 A Normal or higher enemy-up setup in difficulty settings puts a gunman on the balcony above the statue, useful for a quicker invisibility and teleport.
 
 ## DeVitt Plantation
-Nothing particularly noteworthy.
+There's a door network behind the mansion from where you can do a Ghost Meetup to trigger the mid-level cutscene, but after the cutscene your characters will appear outside of the door network and be seen.
 
 ## Eagle's Nest
+Hector will automatically pick up the treasure chest after its cutscene. This can be stopped by issuing a command or doing something in showdown. However there's a tiny window just before Hector's abilities are disabled from carrying the box where he can do something in showdown (like activate invisibility) and still continue to automatically pick up the box.
+
 You can teleport with the chest of money using a Blocked Door Teleport glitch.
 
-Hector will automatically pick up the treasure chest after its cutscene. This can be stopped by issuing a command or doing something in showdown. However there's a tiny window just before Hector's abilities are disabled from carrying the box where he can do something in showdown (like activate invisibility) and still continue to automatically pick up the box.
 
 # Challenges
 
