@@ -260,6 +260,6 @@ The light by the long coat target can be extinguished by walking over him after 
 
 
 ## What If?
-If Frank sees you he'll run after you.
+Frank has unique behavior. He won't ever attack you. If he detects you, he will cause an alarm and stand still staring at you. If you leave his vision after that, he will begin chasing after you. He will always know where you are and run toward your current location. Guards will run to the spot where Frank first saw you, but not to any other places Frank sees you after that. The guards that wander around looking for you at that first location will never stop doing so.
 
-There's a timer of about 7 seconds before the level ends upon killing Frank.
+There's a timer of about 7 seconds before the level ends upon killing Frank. Alarm state doesn't affect this.
