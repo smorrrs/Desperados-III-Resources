@@ -260,4 +260,6 @@ The light by the long coat target can be extinguished by walking over him after 
 
 
 ## What If?
-There's a short timer before the level ends after killing Frank.
+If Frank sees you he'll run after you.
+
+There's a timer of about 7 seconds before the level ends upon killing Frank.
