@@ -98,9 +98,11 @@ If you invisible kill-carry the long coat in the field from the left side with H
 
 
 ## Eagle Falls
-If any characters are on the left side of the bridge when you blow it up, you'll fail the mission. Characters can stand on the right side of the bridge section that collapses when it does so and they'll get teleported to the edge of the closest non-collapsed part.
-
 Blowing up the bridge doesn't cause an alarm.
+
+If any characters are on the left side of the bridge when you blow it up, you'll fail the mission. Characters can stand on the right side of the bridge section that collapses when it does so and they'll get teleported to the edge of the closest non-collapsed part. Anywhere to the right of the blue lines is safe:
+
+![Screenshot (16)](https://user-images.githubusercontent.com/104397629/228059896-0fb13b18-d1cb-4030-ab37-258a0ba90113.jpg)
 
 
 ## Devil's Canyon Chapter 2
