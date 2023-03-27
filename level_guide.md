@@ -122,7 +122,11 @@ The normal sequence needed is to get the correct letter, meetup, then examine th
 
 The letter you need is randomly assigned to one of the 3 targets upon loading the level. Reloading a save even at the very beginning of the level won't reset who has it. You can tell if you have collected the correct letter by the dialogue played.
 
-Different lines of dialogue play based on which character grabs a letter, enters the shed, and examines the desk. These lines are very similar length though.
+Kate can pickpocket letters.
+
+Different lines of dialogue play based on which character grabs a letter, enters the shed, and examines the desk. These lines are very similar length though. Dialogue will trigger when you get near a letter carrier, but this can be skipped by killing or knocking out the carrier.
+
+The meetup area is very wide. It can be triggered from a spot on the other side of the fence (in the letter carrier's area) and can also use a Ghost Meetup on the nearby wall.
 
 The letter and meetup can be skipped by using the out-of-bounds glitch to run straight to the shed desk with a controller.
 
