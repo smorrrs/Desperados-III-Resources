@@ -1,5 +1,5 @@
 # Level Guide
-Level-specific info and tricks
+Level-specific info and tricks.
 
 Base Game Levels:
 * [Devil's Canyon 1](https://github.com/smorrrs/Desperados-III-Resources/blob/main/level_guide.md#devils-canyon-chapter-1)
