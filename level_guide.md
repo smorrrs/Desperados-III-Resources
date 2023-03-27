@@ -72,7 +72,7 @@ Triggers for unlocking abilities:
 * McCoy's bag: read the hint by the tree bridge, or step onto the tree bridge
 * McCoy's gun: go near the train tracks after the bag tutorial
 
-Hints appear after about a second. Teleporting off the train roof before the hints appear may cause Cooper to get stuck in the air.
+Hints appear after about a second after the level starts. Teleporting off the train roof before the hints appear may cause Cooper to get stuck in the air.
 
 Blowing up the boulder will typically cause an alarm preventing you from finishing the level right away. However, if your characters are both inside the meetup area with no alarm triggered when you throw the dynamite at the boulder, one of the ending cutscenes will play right after the cutscene of the boulder exploding. If you skip this ending cutscene, you immediately end the level. 
 
@@ -98,7 +98,9 @@ If you invisible kill-carry the long coat in the field from the left side with H
 
 
 ## Eagle Falls
-If Kate or Cooper are on the left side of the bridge when you blow it up, you'll fail the mission. Blowing up the bridge doesn't cause an alarm.
+If any characters are on the left side of the bridge when you blow it up, you'll fail the mission. Characters can stand on the right side of the bridge section that collapses when it does so and they'll get teleported to the edge of the closest non-collapsed part.
+
+Blowing up the bridge doesn't cause an alarm.
 
 
 ## Devil's Canyon Chapter 2
