@@ -104,6 +104,8 @@ Enemies mind controlled by Isabelle can walk through locked doors, but the door 
 
 They can also interact with objects, but can't trigger events like freeing Wayne in Queen's Nest or examining the desk in New Orleans.
 
+Releasing mind control will knock out the enemy, which will cause enemies that see them to investigate. 
+
 
 ## Isabelle: Mind Control Link Damage
 Link Isabelle with another character, then mind control an enemy. The linked character will take damage, stunning them if they're a long coat and killing them if they're another enemy type. This can also be used for strategically damaging allies.
