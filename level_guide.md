@@ -122,6 +122,8 @@ Rescuing your characters:
 ## New Orleans
 The normal sequence needed is to get the correct letter, meetup, then examine the desk in the locked shed to beat the level.
 
+The letter and meetup can be skipped by using the out-of-bounds glitch to run straight to the shed desk.
+
 The letter you need is randomly assigned to one of the 3 targets upon loading the level. Reloading a save even at the very beginning of the level won't reset who has it. You can tell if you have collected the correct letter by the dialogue played.
 
 Kate can pickpocket letters.
@@ -129,8 +131,6 @@ Kate can pickpocket letters.
 Different lines of dialogue play based on which character grabs a letter, enters the shed, and examines the desk. These lines are very similar length though. Dialogue will trigger when you get near a letter carrier, but this can be skipped by killing or knocking out the carrier.
 
 The meetup area is very wide. It can be triggered from a spot on the other side of the fence (in the letter carrier's area) and can also use a Ghost Meetup on the nearby wall.
-
-The letter and meetup can be skipped by using the out-of-bounds glitch to run straight to the shed desk with a controller.
 
 
 ## Queen's Nest
@@ -140,7 +140,7 @@ Igniting the Queen typically causes an alarm, however if your characters are all
 
 
 ## New Orleans Docks
-You can teleport out-of-bounds to go straight to Frank and bypass the meetup. If you do this without a controller, you won't be able to shoot Frank and you'll soft lock.
+You can bypass the meetup at the gate by triggering the meetup on the boat first. This will mess up the camera for the last part and if you do this without a controller, you won't be able to shoot Frank and be soft locked.
 
 
 ## DeVitt Goldmine
