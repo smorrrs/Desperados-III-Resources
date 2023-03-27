@@ -169,9 +169,10 @@ DeVitt is immune to cutscene progression and will always begin in the same locat
 
 ## Devil's Canyon Chapter III
 In the final showdown:
-* Your characters have about 4 seconds to fulfill scheduled actions upon executing showdown before Frank's bodyguards shoot Cooper
-* The bodyguards can be either killed or knocked out or mind controlled, but distractions won't work
-* The bodyguard named Bilya the Kid won't shoot Cooper and can be completely ignored
+* Your characters have about 4 seconds to fulfill scheduled actions upon executing showdown before Frank's bodyguards shoot Cooper.
+* Executing showdown will enter a cutscene state, meaning that your characters are invisible and the timer is paused.
+* The bodyguards can be either killed or knocked out or mind controlled, but distractions won't work.
+* The bodyguard named Bilya the Kid won't shoot Cooper and can be completely ignored.
 
 
 # DLC Levels - Money for the Vultures
