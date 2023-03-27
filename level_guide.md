@@ -200,7 +200,7 @@ Nothing particularly noteworthy.
 ## Untitled Voodoo Mission
 Hector will wake up if he takes damage.
 
-When the mayor's on stage, the dog must be on the steps, on the stage, or right next to the stage for the bark to work.
+When the mayor's on stage, the dog must be on the steps, on the stage, or right up against the side of the stage for the bark to work. Otherwise it may not work even if the mayor is in the bark radius.
 
 
 ## Hazards of the Trade
