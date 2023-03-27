@@ -214,7 +214,7 @@ Nothing particularly noteworthy.
 The three targets are in the following locations:
 * Near the boat, walking with the two long coats
 * At Rosie's cabin in the top-right
-* Along the road in the bottom-right near the gossiping doctor
+* Along the road in the bottom-right near-ish where the tooth doctor is in the base level
 
 The model target inside the bank won't react to seeing you.
 
