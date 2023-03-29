@@ -194,7 +194,8 @@ You can teleport with the chest of money using a Blocked Door Teleport glitch.
 # Challenges
 
 ## One Woman Army
-Nothing particularly noteworthy.
+An alarm will result in a mission failure.
+
 
 ## Vanishing Act
 Nothing particularly noteworthy.
@@ -210,7 +211,6 @@ Nothing particularly noteworthy.
 
 ## Public Transportation
 Nothing particularly noteworthy.
-
 
 ## Three Men With No Name
 The three targets are in the following locations:
